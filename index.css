@@ -8,3 +8,15 @@
 div{
 	color:blue;
 }
+a[href*="aftonbladet"]{
+	color:green;
+}
+a[href*="sydsvenskan"]{
+	color:yellow;
+}
+a[href*="gamereactor"]{
+	color:black;
+}
+a[href*="index2"]{
+	color:red;
+}
